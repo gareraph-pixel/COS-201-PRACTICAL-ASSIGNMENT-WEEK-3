@@ -3,9 +3,9 @@
 Course: COS 201 — Computer Programming I
 Topic: Variables, Data Types, Expressions and Input/Output
 
-Student Name: [Your Full Name]
-Matriculation Number: [Your Matric Number]
-Programme: [Your Programme]
+Student Name: IROROYOHWO OGHENEGARE RAPHAEL 
+Matriculation Number: 25/18453
+Programme: COMPUTER SCIENCE 
 
 ## Programs
 
@@ -67,3 +67,13 @@ Subtotal:   1500.00
 VAT (7.5%): 112.50
 Total cost: 1612.50
 ```
+Course: COS 201 — Computer Programming I
+Week: 3
+GitHub Repository URL: [Paste your actual repository URL]
+Programs submitted:
+SimpleCalculator.java
+AverageCalculator.java
+ItemCost.java
+I have saved the source code, tested the programs and pushed the required files to GitHub. The README file 
+contains instructions for compiling and running the programs.
+Thank you.
